@@ -39,8 +39,8 @@ def main():
 
     def tamas1():
         if x == "Z" or x == "z":
-            print("""telefon ma: 09365419527
-        id telegram: @wsrcm""")
+            print("""telefon ma: 
+        id telegram: @""")
             b1 = input("""*************
 
 enetr Y baraye bargasht be menu
