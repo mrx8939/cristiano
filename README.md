@@ -1,5 +1,5 @@
 # cristiano
-# i want to develop this program
+# help me to develop this program
 import time
 x1 = input("""             sing up
    enter your username: """)
